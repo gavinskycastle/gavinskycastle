@@ -4,4 +4,4 @@ I'm a hobbyist programmer who works on various kinds of projects in my spare tim
 
 I have most experience in Python, Java, C++ and Typescript, however I am always open to learning more.
 
-Right now I'm mainly working as a member of a robotics team on our Java-based robot and Typescript-based applications, and working with Python/C++ on side projects.
+Right now I'm mainly working as the programming director of a robotics team on our Java-based robot and Typescript-based applications, and working with Python/C++ on side projects.
